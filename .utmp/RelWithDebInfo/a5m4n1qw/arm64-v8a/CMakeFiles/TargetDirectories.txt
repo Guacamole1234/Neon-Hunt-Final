@@ -1,0 +1,5 @@
+D:/Carlos/Projects/MechaFinal/.utmp/RelWithDebInfo/a5m4n1qw/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Carlos/Projects/MechaFinal/.utmp/RelWithDebInfo/a5m4n1qw/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Carlos/Projects/MechaFinal/.utmp/RelWithDebInfo/a5m4n1qw/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Carlos/Projects/MechaFinal/.utmp/RelWithDebInfo/a5m4n1qw/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Carlos/Projects/MechaFinal/.utmp/RelWithDebInfo/a5m4n1qw/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
